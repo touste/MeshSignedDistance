@@ -3,6 +3,9 @@ uuid = "a56c60b2-b59c-4d2a-96f2-cba9274f7ec6"
 authors = ["Baptiste Pierrat <baptiste.pierrat@gmail.com> and contributors"]
 version = "0.1.0"
 
+[deps]
+GeometryBasics = "5c1252a2-5f33-56bf-86c9-59e7332b4326"
+
 [compat]
 julia = "1"
 
